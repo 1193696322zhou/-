@@ -1,0 +1,5 @@
+{
+  "name": "简单读文献",
+  "description": "A minimalist academic reading assistant that provides deep bilingual analysis of English papers, featuring tiered methodology explanations and key insight extraction.",
+  "requestFramePermissions": []
+}
